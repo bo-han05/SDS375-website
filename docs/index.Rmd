@@ -1,0 +1,21 @@
+---
+title: "Bo Han"
+image: "Casual_Headshot.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/bo-han-sds"
+  - label: GitHub
+    url: "https://github.com/bo-han05"
+output:
+  postcards::jolla
+---
+ 
+Hello! My name is Bo Han and I am a third year Statistics and Data Science student. I go to Acts Fellowship Church here in Austin, and I serve as an evangelism and small group leader. In the picture above, I was in Guatemala, where my church and I went on a mission trip to share the Gospel! I enjoy playing sports like football and spikeball and playing chess.
+
+#### My Favorite Movies:
+1. The Fantastic Mr. Fox
+2. The Batman
+3. A Silent Voice
+
+Website built at `r Sys.time()`.
+
